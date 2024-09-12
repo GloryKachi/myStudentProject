@@ -1,0 +1,45 @@
+body {
+}
+ul {
+  color: blueviolet;
+  font-size: 60px;
+  background-color: black;
+}
+img {
+  width: 500px;
+  margin-bottom: 50px;
+}
+.paragraph-one {
+  color: green;
+  background-color: black;
+}
+.paragraph-two {
+  color: blue;
+}
+
+.paragraph-three {
+  color: purple;
+}
+.text {
+  color: crimson;
+  font-size: 20px;
+  background: gray;
+  padding: 50px 50px 50px 400px; /*top, right, bottom, left*/
+}
+.text2 {
+  color: crimson;
+  font-size: 20px;
+  background: green;
+  padding: 50px 50px 50px 400px; /*top, right, bottom, left*/
+  margin: 50px 0px 50px 0px;
+}
+.text3 {
+  color: crimson;
+  font-size: 20px;
+  background: blue;
+  padding: 50px 50px 50px 400px; /*top, right, bottom, left*/
+}
+#paragraph-txt {
+  color: aqua;
+  font-size: 20px;
+}
